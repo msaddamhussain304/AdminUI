@@ -58,6 +58,7 @@ const PaginationUI = ({
           showLastButton
           color="info"
           size={matches ? "small" : "large"}
+          shape="rounded"
         />
       </nav>
     </section>
