@@ -1,0 +1,15 @@
+.searchbar{
+    
+    width: 98.7%;
+    height: 1rem;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    outline: none;
+    line-height: 100%;
+   
+
+  }
+  .search-bar-container{
+    margin-right: 0.8rem;
+  }
